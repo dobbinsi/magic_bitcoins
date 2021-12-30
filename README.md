@@ -1,1 +1,1 @@
-# magic_bitcoins
+E-commerce website built with React and Material UI
